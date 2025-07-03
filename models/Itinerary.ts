@@ -18,4 +18,5 @@ export interface Itinerary {
   destinations: Destination[];
   activities: Activity[];
   notes?: string;
+  // Add or remove properties as needed
 }
